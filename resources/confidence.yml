@@ -1,0 +1,50 @@
+profiles:
+  modern:
+    ipa_map:
+      kh: x
+      sh: ʃ
+      ts: ts
+      ch: χ
+      q: kʔ
+      r: ʁ
+      h: h
+      a: a
+      e: e
+      i: i
+      o: o
+      u: u
+    calibration:
+      a: 0.045
+      b: 2.8
+  ashkenazi:
+    ipa_map:
+      kh: x
+      sh: ʃ
+      ts: ts
+      ch: χ
+      q: kʔ
+      r: r
+      a: ɔ
+      e: e
+      i: i
+      o: o
+      u: u
+    calibration:
+      a: 0.05
+      b: 2.6
+  sephardi:
+    ipa_map:
+      kh: x
+      sh: ʃ
+      ts: ts
+      ch: χ
+      q: kʕ
+      r: r
+      a: a
+      e: e
+      i: i
+      o: o
+      u: u
+    calibration:
+      a: 0.043
+      b: 2.9
